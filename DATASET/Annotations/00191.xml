@@ -1,0 +1,12 @@
+<annotation>
+	<object>
+		<name>priority at next intersection</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>693</xmin>
+			<ymin>406</ymin>
+			<xmax>728</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

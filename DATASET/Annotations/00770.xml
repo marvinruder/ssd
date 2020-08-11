@@ -1,0 +1,32 @@
+<annotation>
+	<object>
+		<name>restriction ends (overtaking)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1059</xmin>
+			<ymin>503</ymin>
+			<xmax>1095</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no entry</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>535</ymin>
+			<xmax>497</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>keep right</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>578</ymin>
+			<xmax>555</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+</annotation>

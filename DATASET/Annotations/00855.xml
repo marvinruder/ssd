@@ -1,0 +1,22 @@
+<annotation>
+	<object>
+		<name>slippery road</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1151</xmin>
+			<ymin>290</ymin>
+			<xmax>1259</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>priority road</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>917</xmin>
+			<ymin>410</ymin>
+			<xmax>950</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

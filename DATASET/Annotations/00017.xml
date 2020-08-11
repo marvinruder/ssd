@@ -1,0 +1,22 @@
+<annotation>
+	<object>
+		<name>snow</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>908</xmin>
+			<ymin>302</ymin>
+			<xmax>1031</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>priority at next intersection</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>575</xmin>
+			<ymin>495</ymin>
+			<xmax>598</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>

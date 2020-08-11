@@ -1,0 +1,12 @@
+<annotation>
+	<object>
+		<name>no entry</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>425</ymin>
+			<xmax>68</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>

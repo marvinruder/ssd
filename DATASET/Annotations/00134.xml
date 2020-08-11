@@ -1,0 +1,12 @@
+<annotation>
+	<object>
+		<name>speed limit (30)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1008</xmin>
+			<ymin>299</ymin>
+			<xmax>1073</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

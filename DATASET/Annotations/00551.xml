@@ -1,0 +1,12 @@
+<annotation>
+	<object>
+		<name>no trucks</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>937</xmin>
+			<ymin>465</ymin>
+			<xmax>966</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

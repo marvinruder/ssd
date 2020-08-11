@@ -1,0 +1,22 @@
+<annotation>
+	<object>
+		<name>snow</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>507</ymin>
+			<xmax>451</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>snow</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>863</xmin>
+			<ymin>505</ymin>
+			<xmax>902</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>

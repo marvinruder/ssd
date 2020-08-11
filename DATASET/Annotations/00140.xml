@@ -1,0 +1,12 @@
+<annotation>
+	<object>
+		<name>stop</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>472</ymin>
+			<xmax>275</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

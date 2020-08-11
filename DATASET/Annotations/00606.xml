@@ -1,0 +1,12 @@
+<annotation>
+	<object>
+		<name>restriction ends (overtaking (trucks))</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>853</xmin>
+			<ymin>501</ymin>
+			<xmax>887</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>

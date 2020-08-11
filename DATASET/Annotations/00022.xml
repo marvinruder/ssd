@@ -1,0 +1,12 @@
+<annotation>
+	<object>
+		<name>pedestrian crossing</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>667</xmin>
+			<ymin>472</ymin>
+			<xmax>692</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

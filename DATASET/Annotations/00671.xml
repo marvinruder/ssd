@@ -1,0 +1,22 @@
+<annotation>
+	<object>
+		<name>traffic signal</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>839</xmin>
+			<ymin>348</ymin>
+			<xmax>892</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed limit (50)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>846</xmin>
+			<ymin>393</ymin>
+			<xmax>883</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

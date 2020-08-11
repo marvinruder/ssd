@@ -1,0 +1,12 @@
+<annotation>
+	<object>
+		<name>traffic signal</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1236</xmin>
+			<ymin>480</ymin>
+			<xmax>1290</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>

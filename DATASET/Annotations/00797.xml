@@ -1,0 +1,42 @@
+<annotation>
+	<object>
+		<name>go left or straight</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>832</xmin>
+			<ymin>456</ymin>
+			<xmax>866</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>go left</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>494</ymin>
+			<xmax>423</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>give way</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>466</ymin>
+			<xmax>428</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>give way</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>822</xmin>
+			<ymin>417</ymin>
+			<xmax>868</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>
