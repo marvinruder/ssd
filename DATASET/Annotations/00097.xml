@@ -1,0 +1,32 @@
+<annotation>
+	<object>
+		<name>give way</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1125</xmin>
+			<ymin>338</ymin>
+			<xmax>1168</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>give way</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>328</ymin>
+			<xmax>334</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>keep right</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>446</ymin>
+			<xmax>196</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+</annotation>

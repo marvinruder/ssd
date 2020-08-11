@@ -1,0 +1,32 @@
+<annotation>
+	<object>
+		<name>uneven road</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1220</xmin>
+			<ymin>168</ymin>
+			<xmax>1327</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed limit (50)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1238</xmin>
+			<ymin>256</ymin>
+			<xmax>1314</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>priority at next intersection</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>445</ymin>
+			<xmax>107</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

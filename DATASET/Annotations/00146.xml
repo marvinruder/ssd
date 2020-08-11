@@ -1,0 +1,32 @@
+<annotation>
+	<object>
+		<name>restriction ends (overtaking)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1205</xmin>
+			<ymin>122</ymin>
+			<xmax>1327</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>school crossing</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>707</xmin>
+			<ymin>404</ymin>
+			<xmax>732</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed limit (50)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>711</xmin>
+			<ymin>427</ymin>
+			<xmax>729</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

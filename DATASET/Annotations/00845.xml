@@ -1,0 +1,12 @@
+<annotation>
+	<object>
+		<name>uneven road</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>958</xmin>
+			<ymin>414</ymin>
+			<xmax>991</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

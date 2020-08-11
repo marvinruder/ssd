@@ -1,0 +1,42 @@
+<annotation>
+	<object>
+		<name>restriction ends (overtaking (trucks))</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>568</xmin>
+			<ymin>563</ymin>
+			<xmax>591</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restriction ends (overtaking (trucks))</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>940</xmin>
+			<ymin>558</ymin>
+			<xmax>966</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed limit (70)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>568</xmin>
+			<ymin>540</ymin>
+			<xmax>592</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed limit (70)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>939</xmin>
+			<ymin>532</ymin>
+			<xmax>965</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+</annotation>

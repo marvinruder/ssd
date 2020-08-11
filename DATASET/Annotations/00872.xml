@@ -1,0 +1,22 @@
+<annotation>
+	<object>
+		<name>no overtaking (trucks)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>937</xmin>
+			<ymin>406</ymin>
+			<xmax>970</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no overtaking (trucks)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>416</ymin>
+			<xmax>351</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>

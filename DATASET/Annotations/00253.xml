@@ -1,0 +1,12 @@
+<annotation>
+	<object>
+		<name>no overtaking</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1186</xmin>
+			<ymin>134</ymin>
+			<xmax>1301</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

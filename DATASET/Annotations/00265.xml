@@ -1,0 +1,32 @@
+<annotation>
+	<object>
+		<name>road narrows</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>800</xmin>
+			<ymin>426</ymin>
+			<xmax>831</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>danger</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>783</xmin>
+			<ymin>446</ymin>
+			<xmax>804</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed limit (30)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>805</xmin>
+			<ymin>458</ymin>
+			<xmax>827</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,22 @@
+<annotation>
+	<object>
+		<name>keep right</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>521</ymin>
+			<xmax>218</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no entry</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>374</ymin>
+			<xmax>246</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

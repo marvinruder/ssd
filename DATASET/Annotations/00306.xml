@@ -1,0 +1,22 @@
+<annotation>
+	<object>
+		<name>bend right</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1047</xmin>
+			<ymin>420</ymin>
+			<xmax>1084</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bend right</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>471</ymin>
+			<xmax>389</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+</annotation>

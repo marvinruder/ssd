@@ -1,0 +1,22 @@
+<annotation>
+	<object>
+		<name>speed limit (70)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>855</xmin>
+			<ymin>477</ymin>
+			<xmax>890</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no overtaking (trucks)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>854</xmin>
+			<ymin>512</ymin>
+			<xmax>889</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+</annotation>

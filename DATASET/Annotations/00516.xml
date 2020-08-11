@@ -1,0 +1,12 @@
+<annotation>
+	<object>
+		<name>go left</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>275</ymin>
+			<xmax>298</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

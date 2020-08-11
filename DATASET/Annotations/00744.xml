@@ -1,0 +1,12 @@
+<annotation>
+	<object>
+		<name>give way</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1155</xmin>
+			<ymin>536</ymin>
+			<xmax>1183</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

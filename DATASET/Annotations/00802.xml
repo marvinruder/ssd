@@ -1,0 +1,22 @@
+<annotation>
+	<object>
+		<name>school crossing</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>596</xmin>
+			<ymin>181</ymin>
+			<xmax>698</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed limit (30)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>610</xmin>
+			<ymin>267</ymin>
+			<xmax>683</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,22 @@
+<annotation>
+	<object>
+		<name>restriction ends 80</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1227</xmin>
+			<ymin>364</ymin>
+			<xmax>1272</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>restriction ends 80</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>417</ymin>
+			<xmax>142</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

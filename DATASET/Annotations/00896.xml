@@ -1,0 +1,12 @@
+<annotation>
+	<object>
+		<name>no traffic both ways</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>808</xmin>
+			<ymin>412</ymin>
+			<xmax>846</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,12 @@
+<annotation>
+	<object>
+		<name>cycles crossing</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1080</xmin>
+			<ymin>286</ymin>
+			<xmax>1145</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

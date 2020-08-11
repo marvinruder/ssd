@@ -1,0 +1,42 @@
+<annotation>
+	<object>
+		<name>speed limit (120)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>537</xmin>
+			<ymin>512</ymin>
+			<xmax>554</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no overtaking (trucks)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>538</xmin>
+			<ymin>528</ymin>
+			<xmax>554</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>speed limit (120)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>814</xmin>
+			<ymin>508</ymin>
+			<xmax>832</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no overtaking (trucks)</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>815</xmin>
+			<ymin>525</ymin>
+			<xmax>831</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

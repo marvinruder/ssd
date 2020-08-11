@@ -1,0 +1,22 @@
+<annotation>
+	<object>
+		<name>bend right</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>951</xmin>
+			<ymin>348</ymin>
+			<xmax>1015</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no overtaking</name>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>962</xmin>
+			<ymin>408</ymin>
+			<xmax>1011</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>
