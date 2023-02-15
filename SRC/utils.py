@@ -57,6 +57,7 @@ rev_label_map = {v: k for k, v in label_map.items()}  # Inverse mapping
 
 
 def parse_annotation(annotation_path):
+    # deepcode ignore InsecureXmlParser: Only known XML files are parsed
     tree = ET.parse(annotation_path)
     root = tree.getroot()
 
